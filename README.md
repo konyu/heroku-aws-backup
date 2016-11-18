@@ -1,4 +1,5 @@
 # heroku-aws-backup
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Heroku and AWS backup docker container
 
