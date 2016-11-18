@@ -1,6 +1,6 @@
 # heroku-aws-backup
 
-A CentOS Ruby docker container
+A Heroku and AWS backup docker container
 
 It's on [docker-hub](https://hub.docker.com/r/konyu/xxxxxx/) and [github](https://github.com/konyu/heroku-aws-backup/)
 
@@ -81,4 +81,4 @@ heroku addons:create scheduler:standard -app APP_NAME_YOU_WANT
 ```
 
 # Add schedule at heroku
-TBD upload with image
+![2016-11-18 11 39 35](https://cloud.githubusercontent.com/assets/1217706/20417217/33c8071c-ad87-11e6-9da7-0b755a21ea1b.png)
