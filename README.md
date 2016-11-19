@@ -3,7 +3,7 @@
 
 A Heroku and AWS backup docker container
 
-It's on [docker-hub](https://hub.docker.com/r/konyu/xxxxxx/) and [github](https://github.com/konyu/heroku-aws-backup/)
+It's on [docker-hub](https://hub.docker.com/r/konyu/heroku-aws-backup/) and [github](https://github.com/konyu/heroku-aws-backup/)
 
 ## Prepare AWS and Heroku auth key
 You should set environment variables for AWS access key and secret key and heroku api-key.
