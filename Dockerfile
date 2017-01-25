@@ -4,7 +4,7 @@ RUN echo "deb http://toolbelt.heroku.com/ubuntu ./" > /etc/apt/sources.list.d/he
     wget -O- https://toolbelt.heroku.com/apt/release.key | apt-key add -
 
 RUN apt-get update && \
-    apt-get install -y python-pip heroku-toolbelt && \
+    apt-get install -y python-dev python-pip heroku-toolbelt && \
     pip install awscli
 
 # ADD Shell files
